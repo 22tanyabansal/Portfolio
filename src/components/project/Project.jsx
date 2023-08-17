@@ -93,7 +93,7 @@ const Project = () => {
             <img src={IMG4} alt="" />
           </div>
           <h3>
-            A Mobile Recommendation app made for watching movies,tv series trailers and reviews
+            A Movie Recommendation app made for watching movies,tv series trailers and reviews
           </h3>
           <div className="project__item-cta">
             <a
